@@ -2,6 +2,8 @@
 """
 Created on Wed Oct 24 13:18:49 2018
 
+#This requires Spyder to work correctly!
+
 @author: Michael
 """
 
